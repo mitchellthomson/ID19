@@ -1,0 +1,32 @@
+.container {
+	position: relative;
+	height:90vh;
+	margin: 2rem;
+}
+.grid2-vert{
+	height: 100%;
+	display: grid;
+	grid-template-rows: 1fr 2fr;
+	background-color: rgba(0, 255, 255, 0.151);
+}
+
+.top-split{
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	background-color: rgba(128, 0, 128, 0.274);
+}
+.bot-split{
+	display: grid;
+	grid-template-rows: 1fr 2fr;
+	background-color: rgba(0, 128, 38, 0.274);
+}
+
+.grid4-hor{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background-color: rgba(62, 190, 230, 0.418);
+}
+
+@media (max-width:1100px){
+	
+}
