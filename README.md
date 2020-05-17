@@ -45,4 +45,10 @@ Finsihed Fitness Mobile
 
 For the responsive site I picked the two screens I was happiest with and implemented them with CSS and HTML
 
-The implementation proved many problems for me as it turns out the screens were a bit more intensive to implement that I had previous believed
+The implementation proved many problems for me as it turns out the screens were a bit more intensive to implement that I had previous believed so I stuck to just working on my two favourites.
+
+I have previous experience with HTML and CSS but not with responsive design so the breaking points were all very new to me as well as the constant experimentation for how make all the content fit onto multiple devices. Using grids was very new to me and proved to be frustrating skill but again felt it was a valuable skill to learn and will make future frontends easy to build. It waws a very small scale project so I was lucky that nothing too complicated was needed but in the end was happy that I was able to work out even a dumbed down version to have the learning process
+
+# Reflection
+
+As said many times I was very new to all of this from a design perspective. It became very frustrating but rewarding I feel like I learned an incredible amount from wireframing up until using css grids for a better format of a website. I know that with more time I will have something better but for right now and for this module I am happy to submit this for a level 1. I feel the time spent and the product at the end speaks for itself. The learning journy was steep and hard but worth it in the end
