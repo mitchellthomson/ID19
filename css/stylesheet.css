@@ -119,25 +119,30 @@ h1,h2,h3,p{
 	align-items: center;
 }
 
-.note-block{
+.note-card{
 	min-width: 5rem;
 	margin: 1rem;
 	border-style: solid;
 	border-radius: 4px;
-	align-items: center;
+	max-width: 20rem;
+	max-height: 12rem;
 }
 .add{
 	border-style:none;
 }
-.note-block img{
+
+.note-card img{
 	width:100%;
 }
 .grid-toolbar{
 	display:grid;
 	grid-template-rows: 0fr 1fr;
-	background-color: rgba(13, 102, 185, 0.658);
 }
 
+.note-taking h1, .note-taking h2, .note-taking h3, .note-taking p{
+	color:black;
+	
+}
 .green , .green p{
 	border-color:#2A9D8F;
 	color:#2A9D8F;
