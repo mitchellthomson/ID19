@@ -4,6 +4,10 @@ html{
 	background-color:#fafafa
 }
 
+body{
+	margin:0;
+}
+
 h1,h2,h3,p{
 	font-family: Lato;
 	color:#646464;
@@ -228,11 +232,14 @@ a{
 	}
 }
 
-@media (max-width:900px){
+@media (max-width:768px){
 	.daysofweek{
 		grid-template-columns:1fr 
 	}
 	.bot-split{
 		grid-template-rows: 2fr;
+	}
+	.grid4-hor{
+		grid-template-columns:1fr 1fr;
 	}
 }
