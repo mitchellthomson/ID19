@@ -13,4 +13,4 @@ This repository will include the two working pages (index and fitness) and the o
 
 The first steps I made in designing this webapp was to start by researching other applications/websites in competetiton. Once I had a concept of the features I wanted my app to include I set out using Figma to start wireframing the project. After the wireframes were completed I then started doing the screendesigns for both Desktop and Mobile devices, after that I began working on the css and html to implement a running version
 
-[SiteMap]()
+[SiteMap](https://raw.githubusercontent.com/mitchellthomson/ID19/master/docs/SiteMap.png)
