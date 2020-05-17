@@ -106,7 +106,18 @@ h1,h2,h3,p{
 	border-style: solid;
 	border-radius: 4px;
 	padding: 1rem;
+	background-color: white;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.11);
 }
+
+.green {
+	box-shadow: 0 0.7rem 1.5rem rgba(0, 0, 0, 0.11);
+}
+
+.inactive {
+	box-shadow: none;
+}
+
 
 .day p {
 	text-align: center;
@@ -166,8 +177,11 @@ a{
 	padding:1rem;
 	font-size: 2rem;
 	color:white;
-	width:100%;
 	box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.11);
+	font-size: 1rem;
+	text-align: center;
+	position: relative;
+	bottom: 0;
 }
 .green , .green p{
 	border-color:#2A9D8F;
