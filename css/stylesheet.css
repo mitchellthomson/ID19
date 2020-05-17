@@ -101,6 +101,15 @@ a{
 .grid3-cal{
 	display: grid;
 	grid-template-columns: 1fr 2fr 1fr;
+	align-items: center;
+}
+
+.eatencal{
+	color:#2A9D8F;
+}
+
+.burnedcal{
+	color:#F4A261;
 }
 
 .small-left{
