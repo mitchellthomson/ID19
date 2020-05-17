@@ -95,7 +95,6 @@ p{
 }
 
 .small-left{
-	
 	position: relative;
 	background-color: pink;
 
@@ -152,6 +151,7 @@ p{
 }
 
 .day {
+	min-width: 2rem;
 	margin: 1rem;
 	border-style: solid;
 	border-radius: 4px;
