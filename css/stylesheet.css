@@ -60,6 +60,10 @@ h1,h2,h3,p{
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
+.grid3-food{
+	display:grid;
+	grid-template-columns: 1fr 1fr 2fr;
+}
 .centered p, .centered h2, .centered h3{
 	text-align: center;
 }
