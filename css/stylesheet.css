@@ -220,14 +220,19 @@ a{
 }
 
 @media (max-width:1100px){
-	.grid2-vert{
-		grid-template-rows: 1fr;
-	}
 	.top-split{
 		grid-template-columns: 1fr;
 	}
 	.small-left{
 		align-content: center;
 	}
-	
+}
+
+@media (max-width:900px){
+	.daysofweek{
+		grid-template-columns:1fr 
+	}
+	.bot-split{
+		grid-template-rows: 2fr;
+	}
 }
