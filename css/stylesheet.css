@@ -70,7 +70,11 @@ p{
 	background-color: rgba(208, 211, 19, 0.397);
 }
 
-.centered p {
+.grid3-cal{
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+}
+.centered p, .centered h2{
 	text-align: center;
 }
 .centered img{
