@@ -80,7 +80,7 @@ h1,h2,h3,p{
 }
 
 .small-left{
-	position: relative;
+	padding: 3rem;
 }
 
 .grid-toolbar{
@@ -116,6 +116,29 @@ h1,h2,h3,p{
 .tracking-ring p{
 	color: #2A9D8F;
 }
-@media (max-width:1100px){
-	
+
+.green , .green p{
+	border-color:#2A9D8F;
+	color:#2A9D8F;
+}
+
+.red, .red p{
+	border-color:#E76F51;
+	color:#E76F51;
+}
+
+.yellow, .yellow p{
+	border-color:#F4A261;
+	color:#F4A261;
+}
+.inactive, .inactive p{
+	border-color:#646464;
+	color:#646464;
+	opacity: 60%;
+}
+.active, .active p{
+	border-color:#2A9D8F;
+	background-color: #2A9D8F;
+	color:white;
+	font-weight: bolder;
 }
