@@ -9,6 +9,19 @@ h1,h2,h3,p{
 	color:#646464;
 }
 
+a{
+	display: block;
+	background: #2A9D8F;
+	border-radius: 4px;
+	font-family: Lato;
+	padding:1rem;
+	font-size: 2rem;
+	color:white;
+	box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.11);
+	font-size: 1rem;
+	text-align: center;
+	bottom: 0;
+}
 .cell{
 	margin:1rem;
 	background-color: white;
@@ -170,19 +183,6 @@ h1,h2,h3,p{
 	
 }
 
-a{
-	background: #2A9D8F;
-	border-radius: 4px;
-	font-family: Lato;
-	padding:1rem;
-	font-size: 2rem;
-	color:white;
-	box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.11);
-	font-size: 1rem;
-	text-align: center;
-	position: relative;
-	bottom: 0;
-}
 .green , .green p{
 	border-color:#2A9D8F;
 	color:#2A9D8F;
