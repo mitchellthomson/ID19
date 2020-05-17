@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url("http://fonts.googleapis.com/css?family=Lato:400,700");
 
 html{
 	background-color:#fafafa
@@ -6,16 +6,16 @@ html{
 
 h2{
 	font-family: Lato;
-	color:#646464
+	color:#646464;
 }
 
 p{
 	font-family: Lato;
-	color:#646464
+	color:#646464;
 }
 
 .cell{
-	margin:2rem;
+	margin:1rem;
 }
 .navbar{
 	height:100%;
