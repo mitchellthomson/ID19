@@ -1,4 +1,6 @@
 # ID19
+Figma: https://www.figma.com/file/d187np92T7AcLvH5TuWH9v/Mitchell?node-id=208118%3A448
+Github pages: https://mitchellthomson.github.io/ID19/
 
 ## Mitchell Personal Fitness Tracker
 SS2020- ID_19 Responsive Design-Mitchell Thomson
