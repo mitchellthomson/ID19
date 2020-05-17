@@ -139,6 +139,19 @@ p{
 	background-color: rgba(208, 211, 19, 0.397);
 }
 
+.day {
+	margin: 1rem;
+	border-style: solid;
+	border-radius: 4px;
+	padding: 1rem;
+	background-color: white;
+}
+
+.day p {
+	text-align: center;
+}
+
+
 .daysofweek svg rect{
 	float: left;
 }
