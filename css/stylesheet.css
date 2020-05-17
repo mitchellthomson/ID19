@@ -162,6 +162,8 @@ h1,h2,h3,p{
 a{
 	background: #2A9D8F;
 	border-radius: 4px;
+	font-family: Lato;
+	padding:1rem;
 	font-size: 2rem;
 	color:white;
 	width:100%;
