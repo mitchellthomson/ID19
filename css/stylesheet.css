@@ -13,13 +13,12 @@ h1,h2,h3,p{
 	color:#646464;
 }
 
-a{
+.fitnessbutton{
 	display: block;
 	background: #2A9D8F;
 	border-radius: 4px;
 	font-family: Lato;
 	padding:1rem;
-	font-size: 2rem;
 	color:white;
 	box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.11);
 	font-size: 1rem;
@@ -223,12 +222,24 @@ a{
 	font-weight: bolder;
 }
 
-@media (max-width:1100px){
+.returnbutton{
+	color:#2A9D8F;
+	background-color: #fafafa;
+	text-align: left;
+	font-family: Lato;
+	padding:1rem;
+	font-size: 1rem;
+}
+@media (max-width:1024px){
 	.top-split{
 		grid-template-columns: 1fr;
 	}
 	.small-left{
 		align-content: center;
+	}
+	.fitnessbutton{
+		width:75%;
+		
 	}
 }
 
@@ -242,4 +253,8 @@ a{
 	.grid4-hor{
 		grid-template-columns:1fr 1fr;
 	}
+	.fitnessbutton{
+		width:100%;
+	}
+
 }
