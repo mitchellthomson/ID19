@@ -80,9 +80,9 @@ a{
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
-.grid3-food{
+.grid2-food{
 	display:grid;
-	grid-template-columns: 1fr 1fr 2fr;
+	grid-template-columns: 2fr 1fr;
 }
 .centered p, .centered h2, .centered h3{
 	text-align: center;
@@ -176,7 +176,7 @@ a{
 
 .food-list{
 	display: grid;
-	grid-template-rows: repeat(7,1fr);
+	grid-template-rows: repeat(3,1fr);
 	background-color: #fafafa; 
 	float: left;
 }
@@ -219,6 +219,6 @@ a{
 	font-weight: bolder;
 }
 
-@media (max-width:600px){
+@media (max-width:1100px){
 
 }
